@@ -4,6 +4,8 @@
   "projects": {
     "demo": "apps/demo",
     "demo1-app": "apps/demo1/app",
-    "demo1-iframe": "apps/demo1/iframe"
+    "demo1-iframe": "apps/demo1/iframe",
+    "demo2-build-nest": "apps/demo2/build/nest",
+    "demo2-build-react": "apps/demo2/build/react"
   }
 }
